@@ -8,5 +8,5 @@ in this project we use an API which use to map to live weather to our app. And t
 link:- https://weather-orpin-omega-82.vercel.app/
 <br>
 <br>
--By Akash singh(AKash)
+-By Lovely Gautam(lovelylg)
 
